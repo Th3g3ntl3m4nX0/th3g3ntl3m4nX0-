@@ -1,7 +1,7 @@
 <!-- code inspired by - https://github.com/marlenezw -->
 
 <h2 align="center">
-  Welcome to Traw's Github!
+  Welcome to Th3g3ntl3m4n's Github!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
