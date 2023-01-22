@@ -16,13 +16,13 @@
 <p align="center">
   <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
+  <a href="https://twitter.com/i_amslimjimmy"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/0xtraw/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@xtremepentest"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
+  <a href="https://medium.com/@justatachie"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/0xtraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -35,7 +35,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/xtremepentest?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8VXjXD4_ahVoJY5a0AqOQw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLOdL15hUimMDlZUjAGa_vA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/c/xtremepentest">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8VXjXD4_ahVoJY5a0AqOQw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/xtremepentest?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
@@ -129,8 +129,8 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  <a href="https://www.youtube.com/channel/UC8VXjXD4_ahVoJY5a0AqOQw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UC8VXjXD4_ahVoJY5a0AqOQw?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+  <a href="https://www.youtube.com/channel/UCLOdL15hUimMDlZUjAGa_vA?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCLOdL15hUimMDlZUjAGa_vA?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   
  </h3>
