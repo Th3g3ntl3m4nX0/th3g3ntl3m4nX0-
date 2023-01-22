@@ -18,14 +18,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/i_amslimjimmy"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
+  <a href="https://discord.gg/ezR7jPtG" alt="Pentesting, Linux, Bug Bounty, Tech News, Gaming, Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/james-macharia-117306201" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@jamesmacharia420"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/0xtraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https:
+
   <a href="https://hashnode.com/@th3g3ntl3m4n"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/gift.png"/></a>
 </p>
 
