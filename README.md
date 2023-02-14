@@ -24,9 +24,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@jamesmacharia420"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https:
-
-  <a href="https://hashnode.com/@th3g3ntl3m4n"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/gift.png"/></a>
 </p>
 
 
